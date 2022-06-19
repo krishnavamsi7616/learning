@@ -1,4 +1,4 @@
 #!/usr/bin bash
-#comment
+#commentdgfsdg
 ls
 cat /etc/passwd
